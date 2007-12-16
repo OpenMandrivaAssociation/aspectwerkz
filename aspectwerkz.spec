@@ -37,9 +37,7 @@ Release:        %mkrel 2.0.1
 Epoch:          0
 License:        BSD-style License
 URL:            http://aspectwerkz.codehaus.org/
-Group:          Development/Libraries/Java
-Vendor:         JPackage Project
-Distribution:   JPackage
+Group:          Development/Java
 Source0:        http://dist.codehaus.org/aspectwerkz/distributions/aspectwerkz-2.0.zip
 Patch0:         aspectwerkz2-build_xml.patch
 Patch1:         aspectwerkz2-script.patch
@@ -87,21 +85,21 @@ XML definition file or using Runtime Attributes.
 
 %package javadoc
 Summary:        Javadoc for %{name}
-Group:          Development/Documentation
+Group:          Development/Java
 
 %description javadoc
 %{summary}.
 
 %package manual
 Summary:        Documents for %{name}
-Group:          Development/Documentation
+Group:          Development/Java
 
 %description manual
 %{summary}.
 
 %package demo
 Summary:        Samples for %{name}
-Group:          Development/Documentation
+Group:          Development/Java
 
 %description demo
 %{summary}.
