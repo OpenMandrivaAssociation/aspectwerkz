@@ -36,7 +36,7 @@ Version:        2.0
 Release:        %mkrel 3
 Epoch:          0
 License:        BSD-style License
-URL:            http://aspectwerkz.codehaus.org/
+URL:            https://aspectwerkz.codehaus.org/
 Group:          Development/Java
 Source0:        http://dist.codehaus.org/aspectwerkz/distributions/aspectwerkz-2.0.zip
 Patch0:         aspectwerkz2-build_xml.patch
