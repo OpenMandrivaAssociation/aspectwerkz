@@ -33,7 +33,7 @@
 Summary:        AOP for Java
 Name:           aspectwerkz
 Version:        2.0
-Release:        %mkrel 3
+Release:        4
 Epoch:          0
 License:        BSD-style License
 URL:            https://aspectwerkz.codehaus.org/
